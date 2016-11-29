@@ -1,4 +1,6 @@
 #VMsim
+@author Tony Poerio  
+@email tony@tonypoer.io  
 Simulation and Data Analysis for 4 different Page Replacement Algorithms  
 
 ## Usage notes
